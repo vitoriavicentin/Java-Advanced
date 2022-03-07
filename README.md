@@ -3,6 +3,14 @@
 
 Studies on Conditionals, decision making, loop, super classes, extends, GUI and events.
 
+## Functionalities
+
+- Super Class
+- Methods
+- GUI
+- Operators True and False
+- Loop
+- Heritage
 
 ## Learnings
 
